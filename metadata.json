@@ -1,0 +1,7 @@
+{
+  "name": "Micro-Job Pro Manager",
+  "description": "A comprehensive micro-job management system with Admin and User panels, real-time tracking, analytics, and account management, styled with Hind Siliguri for Bengali support.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
